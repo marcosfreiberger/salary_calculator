@@ -3,7 +3,7 @@
 ## 🖥 Preview
 
 <p align = "center">
-  <img src = "file:///C:/Users/Freiberger/Downloads/image.jpg" width = "700">
+  <img src = "https://user-images.githubusercontent.com/48637568/90345795-390a0f00-dffa-11ea-882d-244526a39f29.jpg" width = "700">
 </p>
 
 ---
