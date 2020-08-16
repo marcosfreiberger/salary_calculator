@@ -56,7 +56,7 @@ git clone https://github.com/marcosfreiberger/salary_calculator
 
 #### Enter directory
 
-`cd SalaryCalculator`
+`cd salary_calculator`
 
 #### Download dependencies
 
