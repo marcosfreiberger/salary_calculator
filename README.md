@@ -3,7 +3,7 @@
 ## 🖥 Preview
 
 <p align = "center">
-  <img src = "https://scontent.fbnu2-1.fna.fbcdn.net/v/t1.0-9/117766996_1699486960205648_6455011640635266755_n.jpg?_nc_cat=111&_nc_sid=0debeb&_nc_eui2=AeGVii_Y7cJBpB4obs4XhW37PwGbfMvSiEE_AZt8y9KIQWtHo9n7EK4P0I6XVIaJjc9DtrGOMn0pSVFYXEcCUzdH&_nc_ohc=IZQ5bKf-HIoAX95ZMfp&_nc_ht=scontent.fbnu2-1.fna&oh=f1b65cae66d26603f2ab1d8b602191ff&oe=5F59A05D" width = "700">
+  <img src = "file:///C:/Users/Freiberger/Downloads/image.jpg" width = "700">
 </p>
 
 ---
@@ -52,7 +52,7 @@ const percentageFormatter = Intl.NumberFormat('pt-BR', { style: 'percent', maxim
 
 #### Clone the repository
 
-git clone https://github.com/EPieritz/SalaryCalculator.git
+git clone https://github.com/marcosfreiberger/salary_calculator
 
 #### Enter directory
 
