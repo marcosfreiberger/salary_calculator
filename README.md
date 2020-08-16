@@ -1,4 +1,6 @@
+<h2 align = "center">
 # :fast_forward: Salary Calculator :rewind:
+</h2>
 
 ## 🖥 Preview
 
